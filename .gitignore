@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/kb.db*
+data/md/
+example/docs/*
+!example/docs/考勤制度.docx
+!example/docs/报销.md
