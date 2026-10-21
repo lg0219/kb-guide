@@ -1,0 +1,10 @@
+{
+  "embed_base_url": "http://127.0.0.1:39049/v1",
+  "embed_model": "embeddinggemma-300m-qat-q8_0",
+  "embed_dims": 768,
+  "chunk_size": 800,
+  "chunk_overlap": 100,
+  "db_path": "data/kb.db",
+  "md_dir": "data/md",
+  "api_token": "kbdevtok7f3a"
+}
